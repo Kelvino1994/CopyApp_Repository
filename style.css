@@ -1,4 +1,4 @@
-/* *{
+*{
     font-family: 'bai Jamjuree', sans-serif;
     text-decoration: none;
 }
@@ -7,12 +7,15 @@ h1,h2,h3,h4,h5,h6{
     color: #4b545c;
 }
 
+body {
+    background-color: grey;
+}
 i{
     font-size: 3rem;
 }
 
 p{
-    color: grey !important;
+    color: blue !important;
 }
 
 a{
@@ -39,4 +42,4 @@ button{
 
 .cc-flex{
     flex: 1;
-} */
+}
